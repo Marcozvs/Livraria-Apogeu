@@ -1,0 +1,7 @@
+/*Aplicando reset no estilo*/
+
+@import url(reset.css);
+
+/*Aplicando a base do estilo*/
+
+@import url(base.css);

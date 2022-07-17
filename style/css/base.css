@@ -1,0 +1,69 @@
+/*Definindo as cores do site*/
+
+html{
+    --laranja: #F2A154;
+    --cinza: #E7E6E1;
+    --bege: #F7F6E7;
+    --azul: #314E52;
+    --preto: #262626;
+    --branco: #FCFCFC;
+}
+
+/*Definindo fonte do site*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3{
+    line-height: 1.5rem;
+    letter-spacing: 0.2rem;
+    font-weight: 700;
+    margin: 2rem 0rem;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px; 
+    color: var(--laranja);
+}
+h2{
+    font-size: 32px;
+    color: var( -- laranja);
+}
+.h2-branco{
+    color: var(--branco );
+}
+h3{
+    font-size: 24px;
+    color: var(--azul);
+}
+
+p, a, li, label{
+    line-height: 1.5rem;
+    letter-spacing: 0.2rem;
+    margin: 1rem 0rem; 
+    color: var(--preto);
+}
+
+a{
+    color: var(--azul);
+}
+
+label{
+    color: var(--laranja );
+}
+
+.p-branco{
+    color: var(--branco);
+}
+
+/*Definindo imagens do site*/
+
+img{
+    width: 100%; 
+}
+
+.img--borda{
+    margin: 5px 5px 0px 0px;
+} 
