@@ -1,0 +1,9 @@
+.cartaoCatalogo__icone{
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0rem 0rem 0rem;
+}
+
+.cartaoCatalogo__icone span{
+    font-size: 50px;
+}

@@ -6,6 +6,10 @@
 
 @import url(variaveis.css);
 
+/*Aplicando Google Fonts*/
+
+@import url(https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined);
+
 /*Aplicando a base do estilo*/
 
 @import url(base.css);
@@ -20,3 +24,9 @@
 @import url(cartaoNovidades/cartaoNovidades__imagem.css);
 @import url(cartaoNovidades/cartaoNovidades__texto.css);
 @import url(cartaoNovidades/cartaoNovidades__interacao.css);
+
+/*Aplicando estilo do cartão de catalogos*/
+
+@import url(cartaoCatalogo/cartaoCatalogo.css);
+@import url(cartaoCatalogo/cartaoCatalogo__icone.css);
+@import url(cartaoCatalogo/cartaoCatalogo__texto.css);
