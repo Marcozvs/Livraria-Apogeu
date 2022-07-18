@@ -1,14 +1,3 @@
-/*Definindo as cores do site*/
-
-html{
-    --laranja: #F2A154;
-    --cinza: #E7E6E1;
-    --bege: #F7F6E7;
-    --azul: #314E52;
-    --preto: #262626;
-    --branco: #FCFCFC;
-}
-
 /*Definindo fonte do site*/
 
 body{
@@ -29,7 +18,7 @@ h1{
 }
 h2{
     font-size: 32px;
-    color: var( -- laranja);
+    color: var( --laranja);
 }
 .h2-branco{
     color: var(--branco );
@@ -48,6 +37,8 @@ p, a, li, label{
 
 a{
     color: var(--azul);
+    text-decoration: none;
+    font-weight: 700;
 }
 
 label{

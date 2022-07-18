@@ -2,6 +2,14 @@
 
 @import url(reset.css);
 
+/*Aplicando variáveis de estilo*/
+
+@import url(variaveis.css);
+
 /*Aplicando a base do estilo*/
 
 @import url(base.css);
+
+/*Aplicando estilo do cabeçalho*/
+
+@import url(cabecalho/cabecalho.css);

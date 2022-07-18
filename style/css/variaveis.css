@@ -1,0 +1,10 @@
+/*Definindo as cores do site*/
+
+html{
+    --laranja: #F2A154;
+    --cinza: #E7E6E1;
+    --bege: #F7F6E7;
+    --azul: #314E52;
+    --preto: #262626;
+    --branco: #FCFCFC;
+}
