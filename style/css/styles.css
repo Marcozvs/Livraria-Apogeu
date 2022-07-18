@@ -13,3 +13,10 @@
 /*Aplicando estilo do cabeçalho*/
 
 @import url(cabecalho/cabecalho.css);
+
+/*Aplicando estilo do cartão de novidades*/
+
+@import url(cartaoNovidades/cartaoNovidades.css);
+@import url(cartaoNovidades/cartaoNovidades__imagem.css);
+@import url(cartaoNovidades/cartaoNovidades__texto.css);
+@import url(cartaoNovidades/cartaoNovidades__interacao.css);

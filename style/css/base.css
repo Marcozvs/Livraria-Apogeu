@@ -1,7 +1,15 @@
+/*Definindo estrutura do site*/
+
+main{
+    width: 90vw;
+    margin: 0vh 5vw;
+}
+
 /*Definindo fonte do site*/
 
 body{
     font-family: 'Roboto', sans-serif;
+    background-color: var(--cinza);
 }
 
 h1, h2, h3{

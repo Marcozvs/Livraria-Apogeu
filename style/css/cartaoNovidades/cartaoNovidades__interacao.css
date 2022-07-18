@@ -1,0 +1,8 @@
+.cartaoNovidades__interacao{
+    display: flex;
+    justify-content: space-between;
+    padding: 10% 10%;
+}
+.cartaoNovidades__interacao img{
+    width: 10%;
+}
