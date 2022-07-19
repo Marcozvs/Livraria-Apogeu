@@ -18,6 +18,12 @@
 
 @import url(cabecalho/cabecalho.css);
 
+/*Aplicando estilo do rodapé*/
+
+@import url(rodape/rodape.css);
+@import url(rodape/rodape__lista.css);
+@import url(rodape/rodape__copyright.css);
+
 /*Aplicando estilo do cartão de novidades*/
 
 @import url(cartaoNovidades/cartaoNovidades.css);

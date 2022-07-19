@@ -1,0 +1,10 @@
+.rodape__lista{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.rodape__lista li a{
+    color: var(--branco);
+}
