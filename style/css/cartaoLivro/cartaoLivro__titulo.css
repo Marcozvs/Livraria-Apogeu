@@ -1,0 +1,6 @@
+.cartaoLivro__titulo{
+    background-color: var(--azul);
+    color: var(--branco);
+    border-radius: 5px 5px 0px 0px;
+    margin: 0px;
+}

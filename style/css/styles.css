@@ -36,3 +36,10 @@
 @import url(cartaoCatalogo/cartaoCatalogo.css);
 @import url(cartaoCatalogo/cartaoCatalogo__icone.css);
 @import url(cartaoCatalogo/cartaoCatalogo__texto.css);
+
+/*Aplicando estilo do cartão de livros*/
+
+@import url(cartaoLivro/cartaoLivro.css);
+@import url(cartaoLivro/cartaoLivro__titulo.css);
+@import url(cartaoLivro/cartaoLivro__texto.css);
+@import url(cartaoLivro/cartaoLivro__preco.css);
