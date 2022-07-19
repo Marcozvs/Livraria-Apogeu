@@ -103,7 +103,7 @@ label{
     font-weight: 700;
 }
 
-input{
+input, textarea{
     padding: 1rem;
     border: 2px solid var(--azul);
     border-radius: 5px;
